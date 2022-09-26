@@ -1,10 +1,12 @@
 # Project Proposal – Group T03G05
 
+[__Final Project__](https://github.com/RitaBaptistaOliveira/feup-lcom-2122/blob/main/proj/doc/LCOM_REPORT_T03G05.pdf)
+
 ## Group members:
-Alexandre Costa (__Grade:__ 15.93)
-Ana Beatriz Fontão (__Grade:__ 19)
-Ana Rita Oliveira (__Grade:__ 18.06)
-Matilde Silva (__Grade:__ 10.02)
+- Alexandre Costa (__Grade:__ 15.93)
+- Ana Beatriz Fontão (__Grade:__ 19)
+- Ana Rita Oliveira (__Grade:__ 18.06)
+- Matilde Silva (__Grade:__ 10.02)
 
 ## Desired Functionalities
 We are making our version of the classic game ‘Space Invaders’.
