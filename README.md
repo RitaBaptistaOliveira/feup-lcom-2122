@@ -1,1 +1,2 @@
-# feup-lcom-2122
+# FEUP LCOM 21/22
+FEUP LCOM repository 21/22
